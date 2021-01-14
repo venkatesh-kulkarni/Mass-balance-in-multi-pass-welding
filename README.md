@@ -1,4 +1,4 @@
-# Mass-balance-in-multi-pass-welding
+# Mass balance in multi-pass welding
 
 ### Problem Statement
 1. Finding the height ‘h’ of the weld bead, assuming its cross sectional profile to be a parabola, for different paths in the 2D plane 
